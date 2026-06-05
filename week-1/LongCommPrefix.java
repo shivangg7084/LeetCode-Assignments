@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class LonPrefix {
+public class LongCommPrefix {
         public String longestCommonPrefix(String[] strs) {
             Arrays.sort(strs);
             String str1 = strs[0];
